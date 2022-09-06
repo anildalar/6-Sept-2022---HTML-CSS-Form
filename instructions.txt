@@ -1,0 +1,17 @@
+Render Engines prefixed with
+
+
+Google Chrome  -webkit-
+
+Mozilla Firefox -moz-
+
+box-shadow: x y b s c;
+
+x
+y
+
+b = blur
+
+s = spread
+
+c = color
